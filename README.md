@@ -194,3 +194,17 @@ AI Agent 教程与技术资源集合。
 153. [dev](https://ac.llmrank.top/tutorials/hermes-agent/dev/06-config-skin-system/)
 154. [dev](https://ac.llmrank.top/tutorials/hermes-agent/dev/07-testing-ci/)
 155. [dev](https://ac.llmrank.top/tutorials/hermes-agent/dev/08-terminal-backends/)
+## 新增资源 (2026-05-27)
+
+1. [agent personality design](https://ac.llmrank.top/common/agent-design/05-agent-personality-design/)
+2. [quality gate patterns](https://ac.llmrank.top/common/multi-agent/04-quality-gate-patterns/)
+3. [multi tool format conversion](https://ac.llmrank.top/common/tool-use/04-multi-tool-format-conversion/)
+4. [agency agents](https://ac.llmrank.top/tutorials/agency-agents/)
+5. [agent personality design](https://ac.llmrank.top/tutorials/agency-agents/ai/01-agent-personality-design/)
+6. [nexus multi agent orchestration](https://ac.llmrank.top/tutorials/agency-agents/ai/02-nexus-multi-agent-orchestration/)
+7. [multi tool integration](https://ac.llmrank.top/tutorials/agency-agents/ai/03-multi-tool-integration/)
+8. [mcp memory integration](https://ac.llmrank.top/tutorials/agency-agents/ai/04-mcp-memory-integration/)
+9. [bash conversion pipeline](https://ac.llmrank.top/tutorials/agency-agents/dev/01-bash-conversion-pipeline/)
+10. [domain categorization](https://ac.llmrank.top/tutorials/agency-agents/dev/02-domain-categorization/)
+11. [multi tool deployment](https://ac.llmrank.top/tutorials/agency-agents/dev/03-multi-tool-deployment/)
+
