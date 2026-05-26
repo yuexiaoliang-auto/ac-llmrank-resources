@@ -1,0 +1,7 @@
+# ac.llmrank.top resources (batch 6)
+
+- [https://ac.llmrank.top/tutorials/claude-code/ai/05-%E4%BC%81%E4%B8%9A%E7%BA%A7%E5%AE%89%E5%85%A8%E7%AD%96%E7%95%A5%E4%B8%8E-mdm-%E9%83%A8%E7%BD%B2/](https://ac.llmrank.top/tutorials/claude-code/ai/05-%E4%BC%81%E4%B8%9A%E7%BA%A7%E5%AE%89%E5%85%A8%E7%AD%96%E7%95%A5%E4%B8%8E-mdm-%E9%83%A8%E7%BD%B2/)
+- [https://ac.llmrank.top/tutorials/claude-code/dev/01-%E6%8F%92%E4%BB%B6%E6%9E%B6%E6%9E%84%E4%B8%8E%E7%BB%84%E4%BB%B6%E7%BA%A6%E5%AE%9A/](https://ac.llmrank.top/tutorials/claude-code/dev/01-%E6%8F%92%E4%BB%B6%E6%9E%B6%E6%9E%84%E4%B8%8E%E7%BB%84%E4%BB%B6%E7%BA%A6%E5%AE%9A/)
+- [https://ac.llmrank.top/tutorials/claude-code/dev/02-command-%E6%96%9C%E6%9D%A0%E5%91%BD%E4%BB%A4%E8%AE%BE%E8%AE%A1/](https://ac.llmrank.top/tutorials/claude-code/dev/02-command-%E6%96%9C%E6%9D%A0%E5%91%BD%E4%BB%A4%E8%AE%BE%E8%AE%A1/)
+- [https://ac.llmrank.top/tutorials/claude-code/dev/03-agent-%E6%96%87%E4%BB%B6%E7%BB%93%E6%9E%84%E4%B8%8E%E7%B3%BB%E7%BB%9F%E6%8F%90%E7%A4%BA%E8%AE%BE%E8%AE%A1/](https://ac.llmrank.top/tutorials/claude-code/dev/03-agent-%E6%96%87%E4%BB%B6%E7%BB%93%E6%9E%84%E4%B8%8E%E7%B3%BB%E7%BB%9F%E6%8F%90%E7%A4%BA%E8%AE%BE%E8%AE%A1/)
+- [https://ac.llmrank.top/tutorials/claude-code/dev/04-hook-%E8%84%9A%E6%9C%AC%E5%BC%80%E5%8F%91%E4%B8%8E%E8%B0%83%E8%AF%95/](https://ac.llmrank.top/tutorials/claude-code/dev/04-hook-%E8%84%9A%E6%9C%AC%E5%BC%80%E5%8F%91%E4%B8%8E%E8%B0%83%E8%AF%95/)
