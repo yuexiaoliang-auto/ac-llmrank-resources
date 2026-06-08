@@ -56,3 +56,18 @@
 - https://ac.llmrank.top/tutorials/langgraph/ai/02-checkpoint-durable-execution/
 
 > 更多 AI Agent 教程请访问 https://ac.llmrank.top/
+# LLMRank 新模型资源索引 - 2026年6月
+
+> 更新：新增 8 个模型页面和对比页面
+
+## 模型页面
+- [DeepSeek V3.2](https://llmrank.top/models/deepseek-v3-2/)
+- [MiniMax M3](https://llmrank.top/models/minimax-m3/)
+- [Owl Alpha](https://llmrank.top/models/owl-alpha/)
+- [Tencent Hunyuan 3 Preview](https://llmrank.top/models/tencent-hy3-preview/)
+
+## 模型对比
+- [DeepSeek V3.2 vs DeepSeek V4 Pro](https://llmrank.top/compare/deepseek-v3-2-vs-deepseek-v4-pro/)
+- [DeepSeek V4 Flash vs Owl Alpha](https://llmrank.top/compare/deepseek-v4-flash-vs-owl-alpha/)
+- [DeepSeek V4 Pro vs Tencent Hunyuan 3 Preview](https://llmrank.top/compare/deepseek-v4-pro-vs-tencent-hy3-preview/)
+- [Kimi K2 6 vs MiniMax M3](https://llmrank.top/compare/kimi-k2-6-vs-minimax-m3/)
