@@ -71,3 +71,19 @@
 - [DeepSeek V4 Flash vs Owl Alpha](https://llmrank.top/compare/deepseek-v4-flash-vs-owl-alpha/)
 - [DeepSeek V4 Pro vs Tencent Hunyuan 3 Preview](https://llmrank.top/compare/deepseek-v4-pro-vs-tencent-hy3-preview/)
 - [Kimi K2 6 vs MiniMax M3](https://llmrank.top/compare/kimi-k2-6-vs-minimax-m3/)
+
+## AI Agent 教程精选 - ac.llmrank.top
+
+- https://ac.llmrank.top/tutorials/langgraph/ai/03-human-in-the-loop-interrupt/
+- https://ac.llmrank.top/tutorials/langgraph/ai/04-functional-workflow-api/
+- https://ac.llmrank.top/tutorials/langgraph/ai/05-subgraph-composition/
+- https://ac.llmrank.top/tutorials/langgraph/ai/06-streaming-real-time-feedback/
+- https://ac.llmrank.top/tutorials/langgraph/ai/07-channel-state-update-semantics/
+- https://ac.llmrank.top/tutorials/agentic-ui/
+- https://ac.llmrank.top/tutorials/agentic-ui/ai/01-agent-core-loop/
+- https://ac.llmrank.top/tutorials/agentic-ui/ai/02-visual-dom-understanding/
+- https://ac.llmrank.top/tutorials/agentic-ui/ai/03-accessibility-tree-verification/
+- https://ac.llmrank.top/tutorials/agentic-ui/ai/04-text-generation-pipeline/
+
+来源：[ac.llmrank.top](https://ac.llmrank.top/) - AI Agent 教程与源码学习平台
+
