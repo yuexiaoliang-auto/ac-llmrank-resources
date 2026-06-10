@@ -1,21 +1,25 @@
-# LLMRank 大模型评测与对比资源索引 - 2026年6月
+# AI Agent 教程与源码学习资源索引 - Agent Course Craft - 2026年6月
 
-LLMRank 是中文大模型综合参考站。
+Agent Course Craft (ac.llmrank.top) 是从源码出发的 AI Agent 教程站，提供 Codex/Claude Code/Dify/LangChain 等工具的深度教程。
 
-## 最新模型评测
-1. [https://llmrank.top/compare/claude-opus-4-8-vs-claude-sonnet-4-6/](https://llmrank.top/compare/claude-opus-4-8-vs-claude-sonnet-4-6/)
-2. [https://llmrank.top/compare/claude-opus-4-8-vs-deepseek-v4-pro/](https://llmrank.top/compare/claude-opus-4-8-vs-deepseek-v4-pro/)
-3. [https://llmrank.top/compare/deepseek-v4-flash-vs-step-3-7-flash/](https://llmrank.top/compare/deepseek-v4-flash-vs-step-3-7-flash/)
-4. [https://llmrank.top/compare/gemini-3-5-flash-vs-gpt-5-5/](https://llmrank.top/compare/gemini-3-5-flash-vs-gpt-5-5/)
-5. [https://llmrank.top/guides/law-llm/](https://llmrank.top/guides/law-llm/)
-6. [https://llmrank.top/compare/claude-opus-4-8-vs-gpt-5-5/](https://llmrank.top/compare/claude-opus-4-8-vs-gpt-5-5/)
-7. [https://llmrank.top/compare/deepseek-v4-pro-vs-qwen3-7-max/](https://llmrank.top/compare/deepseek-v4-pro-vs-qwen3-7-max/)
-8. [https://llmrank.top/guides/customer-service-llm/](https://llmrank.top/guides/customer-service-llm/)
-9. [https://llmrank.top/models/step-3-7-flash/](https://llmrank.top/models/step-3-7-flash/)
-10. [https://llmrank.top/models/llama-4-scout/](https://llmrank.top/models/llama-4-scout/)
-11. [https://llmrank.top/guides/student-llm/](https://llmrank.top/guides/student-llm/)
-12. [https://llmrank.top/guides/price-changes-2026-06/](https://llmrank.top/guides/price-changes-2026-06/)
-13. [https://llmrank.top/guides/coding-llm/](https://llmrank.top/guides/coding-llm/)
-14. [https://llmrank.top/models/llama-4-maverick/](https://llmrank.top/models/llama-4-maverick/)
-15. [https://llmrank.top/models/doubao-seed-2-0/](https://llmrank.top/models/doubao-seed-2-0/)
-16. [https://llmrank.top/models/claude-opus-4-8/](https://llmrank.top/models/claude-opus-4-8/)
+## 核心教程资源
+1. [https://ac.llmrank.top/](https://ac.llmrank.top/)
+2. [https://ac.llmrank.top/common/agent-design/01-overview/](https://ac.llmrank.top/common/agent-design/01-overview/)
+3. [https://ac.llmrank.top/common/context-management/01-overview/](https://ac.llmrank.top/common/context-management/01-overview/)
+4. [https://ac.llmrank.top/common/mcp/01-overview/](https://ac.llmrank.top/common/mcp/01-overview/)
+5. [https://ac.llmrank.top/common/memory-system/01-overview/](https://ac.llmrank.top/common/memory-system/01-overview/)
+6. [https://ac.llmrank.top/common/model-provider/01-overview/](https://ac.llmrank.top/common/model-provider/01-overview/)
+7. [https://ac.llmrank.top/common/multi-agent/02-sub-agent-delegation/](https://ac.llmrank.top/common/multi-agent/02-sub-agent-delegation/)
+8. [https://ac.llmrank.top/common/prompt-engineering/02-requirements-elicitation/](https://ac.llmrank.top/common/prompt-engineering/02-requirements-elicitation/)
+9. [https://ac.llmrank.top/common/sandbox/03-guardrails-protocol/](https://ac.llmrank.top/common/sandbox/03-guardrails-protocol/)
+10. [https://ac.llmrank.top/common/tool-use/04-multi-tool-format-conversion/](https://ac.llmrank.top/common/tool-use/04-multi-tool-format-conversion/)
+11. [https://ac.llmrank.top/tutorials/codex/](https://ac.llmrank.top/tutorials/codex/)
+12. [https://ac.llmrank.top/tutorials/codex/ai/01-agent-core-loop/](https://ac.llmrank.top/tutorials/codex/ai/01-agent-core-loop/)
+13. [https://ac.llmrank.top/tutorials/codex/ai/02-tool-calling/](https://ac.llmrank.top/tutorials/codex/ai/02-tool-calling/)
+14. [https://ac.llmrank.top/tutorials/codex/ai/03-mcp-integration/](https://ac.llmrank.top/tutorials/codex/ai/03-mcp-integration/)
+15. [https://ac.llmrank.top/tutorials/codex/dev/01-rust-workspace/](https://ac.llmrank.top/tutorials/codex/dev/01-rust-workspace/)
+16. [https://ac.llmrank.top/tutorials/openclaw/](https://ac.llmrank.top/tutorials/openclaw/)
+17. [https://ac.llmrank.top/tutorials/opencode/](https://ac.llmrank.top/tutorials/opencode/)
+18. [https://ac.llmrank.top/tutorials/superpowers/](https://ac.llmrank.top/tutorials/superpowers/)
+19. [https://ac.llmrank.top/tutorials/claude-code/](https://ac.llmrank.top/tutorials/claude-code/)
+20. [https://ac.llmrank.top/tutorials/gemini-cli/](https://ac.llmrank.top/tutorials/gemini-cli/)
