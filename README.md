@@ -23,3 +23,17 @@ Agent Course Craft (ac.llmrank.top) 是从源码出发的 AI Agent 教程站，�
 18. [https://ac.llmrank.top/tutorials/superpowers/](https://ac.llmrank.top/tutorials/superpowers/)
 19. [https://ac.llmrank.top/tutorials/claude-code/](https://ac.llmrank.top/tutorials/claude-code/)
 20. [https://ac.llmrank.top/tutorials/gemini-cli/](https://ac.llmrank.top/tutorials/gemini-cli/)
+
+## LLMRank 最新模型与对比（2026-06-11 更新）
+
+新增模型与对比页面：
+
+- [https://llmrank.top/compare/deepseek-v3-2-vs-deepseek-v4-pro/](https://llmrank.top/compare/deepseek-v3-2-vs-deepseek-v4-pro/)
+- [https://llmrank.top/compare/deepseek-v4-flash-vs-owl-alpha/](https://llmrank.top/compare/deepseek-v4-flash-vs-owl-alpha/)
+- [https://llmrank.top/compare/deepseek-v4-pro-vs-tencent-hy3-preview/](https://llmrank.top/compare/deepseek-v4-pro-vs-tencent-hy3-preview/)
+- [https://llmrank.top/compare/kimi-k2-6-vs-minimax-m3/](https://llmrank.top/compare/kimi-k2-6-vs-minimax-m3/)
+- [https://llmrank.top/models/deepseek-v3-2/](https://llmrank.top/models/deepseek-v3-2/)
+- [https://llmrank.top/models/minimax-m3/](https://llmrank.top/models/minimax-m3/)
+- [https://llmrank.top/models/owl-alpha/](https://llmrank.top/models/owl-alpha/)
+- [https://llmrank.top/models/tencent-hy3-preview/](https://llmrank.top/models/tencent-hy3-preview/)
+- [https://llmrank.top/models/claude-fable-5/](https://llmrank.top/models/claude-fable-5/)
