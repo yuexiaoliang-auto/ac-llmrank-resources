@@ -37,3 +37,24 @@ Agent Course Craft (ac.llmrank.top) 是从源码出发的 AI Agent 教程站，�
 - [https://llmrank.top/models/owl-alpha/](https://llmrank.top/models/owl-alpha/)
 - [https://llmrank.top/models/tencent-hy3-preview/](https://llmrank.top/models/tencent-hy3-preview/)
 - [https://llmrank.top/models/claude-fable-5/](https://llmrank.top/models/claude-fable-5/)
+## 2026-06-12 ac.llmrank.top Resources
+- https://ac.llmrank.top/tutorials/langgraph/ai/08-prebuilt-agent-toolnode/
+- https://ac.llmrank.top/tutorials/langgraph/dev/01-monorepo-architecture/
+- https://ac.llmrank.top/tutorials/langgraph/dev/02-pregel-execution-engine/
+- https://ac.llmrank.top/tutorials/langgraph/dev/03-channel-protocol-extension/
+- https://ac.llmrank.top/tutorials/langgraph/dev/04-checkpoint-pluggable-backends/
+- https://ac.llmrank.top/tutorials/langgraph/dev/05-error-handling-retry-timeout/
+- https://ac.llmrank.top/tutorials/langgraph/dev/06-testing-strategy/
+- https://ac.llmrank.top/tutorials/langgraph/dev/07-cli-local-dev-server/
+- https://ac.llmrank.top/tutorials/mineru/
+- https://ac.llmrank.top/tutorials/mineru/dev/01-%E4%B8%89%E5%BC%95%E6%93%8E%E5%90%8E%E7%AB%AF%E7%9A%84%E6%BA%90%E7%A0%81%E5%AE%9E%E7%8E%B0/
+- https://ac.llmrank.top/tutorials/openbb/
+- https://ac.llmrank.top/tutorials/trading-agents/
+- https://ac.llmrank.top/common/agent-federation/01-overview/
+- https://ac.llmrank.top/common/agent-learning/01-overview/
+- https://ac.llmrank.top/common/feature-flag-strategies/01-overview/
+- https://ac.llmrank.top/common/hashline-edit-protocol/01-overview/
+- https://ac.llmrank.top/common/intent-classification/01-overview/
+- https://ac.llmrank.top/common/session-recovery/01-overview/
+- https://ac.llmrank.top/tutorials/oh-my-openagent/
+- https://ac.llmrank.top/tutorials/ruflo/
